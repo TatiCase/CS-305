@@ -1,6 +1,6 @@
-Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+ * Bullet list Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 Artemis Financial is a consulting firm that develops individualized financial plans for their customers. They hired us to develop their public web application and make it secure enough to deal with the sensitive personal and financial data involved.
-What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+ * Bullet listWhat did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 I did well at identifying current vulnerabilities in the code base through the use of static testing. Secure coding is important to prevent data theft and to protect the company's reputation of integrity and reliability.
 What about the process of working through the vulnerability assessment did you find challenging or helpful?
 The dependency check tool was very helpful, saving a lot of time in detecting vulnerabilities automatically instead of having to manually check each dependency for vulnerabilities.
